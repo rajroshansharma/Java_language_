@@ -12,6 +12,21 @@ public class Main {
 		for(i=0;i<num1;i++){
 		    System.out.println("Programm ended at : "+i);
 		}
+		//Performing the same task by using while loop
+		/*
+		while(num1 != i){
+		    System.out.println("Progammed ended at :"+i);
+		    i++;
+		}
+		*/
+		
+		//Performing the same task by using do while loop
+		/*
+		do{
+		    System.out.println("Program ended at : "+i);
+		    i++;
+		}while(num1 != i);
+		*/
 		sc.close();
 	}
 }
