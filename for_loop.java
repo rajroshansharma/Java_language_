@@ -15,3 +15,5 @@ public class Main {
 		sc.close();
 	}
 }
+
+//Have a look in a enhanced or advanced for loop in java
