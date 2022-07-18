@@ -1,0 +1,6 @@
+# changing the datatype of an existing column in a table.
+ALTER TABLE transactiondetailes MODIFY trans_date varchar(30);
+
+#changing the datatype of a new column in a table.
+ALTER TABLE transactiondetailes ADD trans_date varchar(30);
+
